@@ -3,7 +3,7 @@
 //1 - Selecció: Usa querySelector per canviar el color d'un <h1> quan la pàgina carregui.
 
 const titol = document.querySelector("#titol-principal");
-titol.style.color = "blue";
+titol.style.color = "red";
 
 //2 - Contingut: Fes que un paràgraf <p> mostri "Hola Món" usant textContent.
 
